@@ -9,7 +9,7 @@ This module converts Labelme created .json files to image and mask numpy arrays.
 
 ![alt text](bee_flower.jpg)
 
-![alt text](image_mask.jpg)
+![alt text](image_mask.png)
 
 
 ## Author
