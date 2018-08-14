@@ -1,5 +1,5 @@
 # Labelme .json to numpy array
-This project Converts Labelme created .json files to image and mask numpy arrays.
+This project converts Labelme created .json files to image and mask numpy arrays.
 
 
 ### Prerequisites
